@@ -1,2 +1,3 @@
-Script para organizar minha pasta de Downloads. Para funcionar em outro computador será necessário alterar o caminho e
-criar pastas com os nomes de PDF, ISO, RAR, Word,PDF, Planilhas, Imagens, Power Points
+Projeto que calcula a Força de Inércia e Torque de um motor de 4 tempos e plota os gráficos utilizando a biblioteca 
+matplotlib. Utiliza a biblioteca PysimpleGUI para criar uma interface gráfica, sendo possivel alterar completamente todas
+as dimensões do motor
